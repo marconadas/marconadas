@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m an electrical engineer passionate about building sol
 - **Blockchain:** Smart contracts, decentralized apps (dApps)
 
 ## 🌟 Featured Projects
-- [arcasadeveloping-bgapp](https://github.com/marconadas/arcasadeveloping-bgapp) — Geospatial data platform for environmental and blockchain applications.
+- [arcasadeveloping-bgapp](https://github.com/marconadas/arcasadeveloping-bgapp) — Geospatial data platform for environmental applications.
 - [aquicultura-app](https://github.com/MARE-DATUM/aquicultura-app) — Aquaculture management app leveraging geospatial tools.
 - [MP4Dao](https://github.com/marconadas/MP4Dao) — Building decentralized solutions for collaborative projects.
 
